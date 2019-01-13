@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#002769</color>
+    <color name="colorPrimaryDark">#00163a</color>
+    <color name="colorAccent">#e8bb00</color>
+    <color name="colorPrimary_light">#E3F2FD</color>
+    <color name="colorFondoGeneral">#FAFAFA</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorBlanco">#FFFFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+
+    <color name="error">#C51162</color>
+
+    <color name="fondoMenuDraw">#e2e2e2</color>
+    <color name="colorCardPlanEcom">#BCBCBC</color>
+    <color name="colorText">#222220</color>
+
+</resources>
